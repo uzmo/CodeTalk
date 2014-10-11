@@ -1,4 +1,0 @@
-CodeTalk
-========
-
-Try Node.js
