@@ -1,6 +1,5 @@
 var argv = require('optimist').argv;
 var crypto = require('crypto');
-var content = 'password'
 var md5 = crypto.createHash('md5');
 
 console.log('running');
