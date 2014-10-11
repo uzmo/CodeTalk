@@ -1,0 +1,9 @@
+2014.10.11
+First test script about md5 with command line argument using Optimist.
+After install dependant modules, run command below:
+$node md5.js --str "This is a md5 test script"
+Output:
+running
+This is a md5 test script
+135caed0f0a18c5cf224121a1aa3ce14
+ 
