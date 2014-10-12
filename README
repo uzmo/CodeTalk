@@ -1,3 +1,8 @@
+2014.10.12
+Test openUI5 with jade template.
+access url as <host>:3000/ui5
+it will display a data table as http://jsbin.com/openui5-table-json/6/
+
 2014.10.11
 First test script about md5 with command line argument using Optimist.
 After install dependant modules, run command below:
