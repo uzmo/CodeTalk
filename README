@@ -2,7 +2,7 @@
 Test openUI5 with jade template.
 access url as <host>:3000/ui5
 it will display a data table as http://jsbin.com/openui5-table-json/6/
-Covering tips about adding javascript into head and declaring body class.
+Covering tips about adding javascript into head and declaring body class for jade template.
 
 reference links:
 http://jade-lang.com/
